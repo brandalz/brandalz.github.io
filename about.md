@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello there. My name is Agung Setiawan, currently I'm a software engineer on a well known marketplace in Indonesia called [Bukalapak](https://bukalapak.com). I really like writing and regurarly producing new content on [my blog](http://agung-setiawan.com) in Indonesian language and that's why I decided to make another blog and use english instead.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Why use **brandalz** as a domain name you may ask and what does it mean?. Well, I want a domain name that's not so hard to be pronounced by most of the people. By mentioning most of the people I mean western people since yeah you know this world seems like being dominated by the west, I'm sure you know what I'm talking about. So having a domain name with my own name will be hard to remember, at least that's what I thought so here I am.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+In short, brandalz is a slang for *berandal* which I use google translate has a meaning of hooligan. This may heard negative but it can be meant other.
+
+What I use in my daily job :
+
+- Ruby
+- Ruby on Rails
+- MySql
+- ElasticSearch
+- Mongodb
+- Vim
+
+{% include icon-github.html username="agungsetiawan" %} /
