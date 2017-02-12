@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blogging in English"
+title:  "Blogging in English and Jekyll"
 date:   2017-02-12 21:19:31 +0700
 categories: blogging
 ---
@@ -11,3 +11,5 @@ Along the journey I found that blogging can help others that are less experience
 English is not my native language, so no better way to learn it other than forcing myself to do blogging using english. You may find some weird sentences from me and you should know why :D
 
 The very last reason on deciding I have to blogging in english is self marketing ;)
+
+On my blog that use Indonesian language [agung-setiawan.com](http://agung-setiawan.com), it's a wordpress based. For this one, the one you are starring at is based on Jekyll. The reason why I use Jekyll?, simple; no need to rent web hosting; and I love writing on markdown using vim, so lovely.
