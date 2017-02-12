@@ -19,9 +19,13 @@ description: > # this means to ignore newlines until "baseurl:"
   This blog will primarly talk about Ruby (and Rails of course) and also
   software design.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://brandalz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: agungsetiawanmu
 github_username:  agungsetiawan
+
+# permalink: :categories/:year/:month/:day/:title/
+permalink: :title/
+
 
 # Build settings
 markdown: kramdown
