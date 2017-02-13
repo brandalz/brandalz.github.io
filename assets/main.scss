@@ -46,3 +46,13 @@ $on-laptop:        800px;
 .post-list > li {
   margin-bottom: 5px;
 }
+
+.post-meta {
+  float: right;
+}
+
+@media(max-width: 900px) {
+  .post-meta {
+    display: none;
+  }
+}
