@@ -10,6 +10,16 @@ Along the journey I found that blogging can help others that are less experience
 
 English is not my native language, so no better way to learn it other than forcing myself to do blogging using english. You may find some weird sentences from me and you should know why. The very last reason on deciding I have to blogging in english is self marketing.
 
-On my blog that use Indonesian language [agung-setiawan.com](http://agung-setiawan.com), I use wordpress as the engine. For this one, I am experimenting with Jekyll. The reason why I use Jekyll?, it's so simple, I don't need to rent web hosting and I love writing on markdown file using vim and let jekyll generate it to a web page, so lovely.
+On my blog that use Indonesian language [agung-setiawan.com][my-blog], I use wordpress as the engine. For this one, I am experimenting with Jekyll. The reason why I use Jekyll?, it's so simple, I don't need to rent web hosting and I love writing on markdown file using vim and let jekyll generate it to a web page, so lovely.
 
 Why use **brandalz** as a domain name you may ask and what does it mean? Well, I want a domain name that's not hard to be pronounced by most of the people. By mentioning most of the people I mean western people since yeah you know this world seems like being dominated by the west, I'm sure you know what I'm talking about. So having a domain name with my own name will be hard to remember, at least that's what I thought so here I am.
+
+{% highlight ruby %}
+def hello(name)
+  "Hello #{name}"
+end
+
+puts hello "Brandalz"
+{% endhighlight %}
+
+[my-blog]: http://agung-setiawan.com
