@@ -26,6 +26,9 @@ github_username:  agungsetiawan
 # permalink: :categories/:year/:month/:day/:title/
 permalink: :title/
 
+url: https://brandalz.com
+enforce_ssl: brandalz.com
+
 
 # Build settings
 markdown: kramdown
