@@ -14,6 +14,6 @@ Then I learned how to type using 10 fingers the correct way using help of [keybr
 
 Lucky me. At that time my friend regularly showing off his vim skill on facebook and that made me interested on learning vim since he was persistencely blaberring.
 
-I managed to learn Vim and it is match with my needs that is an efficient way to write code while my fingers are still on top of keyboard all the time.
+I managed to learn Vim and it is match with my needs that is an efficient way to write code while my fingers are still on top of keyboard all the time. Yes, yes I know, power user of each editor can do about the same. The difference for me is, I learn how to do it first on Vim and still not yet invest time to learn how to code efficiently on other editors.
 
 Now everytime I use other text editors like Sublime I will wondering how to do this in Sublime text the way I do it in Vim.
